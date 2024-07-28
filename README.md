@@ -5,11 +5,10 @@ The EDA process involved:
 Visualizing distributions and relationships between variables
 
 Decision Tree Model:
-Splitting the data into training and testing sets
-Training the model using the DecisionTreeClassifier from scikit-learn
-Tuning parameters to optimize performance
+Splitting the data into training and testing sets. Training the model using the DecisionTreeClassifier from scikit-learn. Tuning parameters to optimize performance
 
 Results
-The model achieved the following results:
+
+The model achieved the following result:
 Accuracy: 96.52%
-AUC: 0.51
+and AUC: 0.51
