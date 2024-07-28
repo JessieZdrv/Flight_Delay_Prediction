@@ -1,4 +1,4 @@
-# Portfolio
+# Flight Delay Prediction
 This project involves performing exploratory data analysis (EDA) and building a decision tree model on a dataset sourced from Kaggle [https://www.kaggle.com/datasets/giovamata/airlinedelaycauses/data]. The goal is to extract meaningful insights and predict outcomes based on the data.
 
 The EDA process involved:
